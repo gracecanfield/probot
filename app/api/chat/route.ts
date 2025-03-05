@@ -24,7 +24,7 @@ export async function POST(req: Request) {
         // Note: This has to be the same system prompt as the one
         // used in the fine-tuning dataset
         content:
-          "I am probot, an expert in deforestation and conversion risk assessment within supply chains, who also has an understanding of GFW Pro product functionality and how it applies to supply chain use cases."
+          "You are an expert in deforestation and conversion risk assessment within supply chains, who also has an understanding of GFW Pro product functionality and how it applies to supply chain use cases."
       },
       ...messages
     ]
