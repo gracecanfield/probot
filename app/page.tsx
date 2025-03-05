@@ -86,7 +86,7 @@ export default function Chat() {
               Hi, I'm Probot, a fine-tuned AI model based on OpenAI.
             </h1>
             <p className="text-gray-500">
-              I'm part of a series of computational experiments taught by{" "}
+              I'm part of a series of computational experiments taught by{"Grace"}
               <a
                 href="https://linkin.bio/yallahalim/"
                 target="_blank"
