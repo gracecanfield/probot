@@ -86,22 +86,22 @@ export default function Chat() {
               Hi, I'm Probot, a fine-tuned AI model based on OpenAI.
             </h1>
             <p className="text-gray-500">
-              I'm part of a series of computational experiments taught by{"Grace"}
+              I'm part of a series of computational experiments taught by{" "}
               <a
-                href="https://linkin.bio/yallahalim/"
+                href="https://www.linkedin.com/in/gracecanfield/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="font-medium underline underline-offset-4 transition-colors hover:text-black"
               >
-                Halim Madi
+                Grace Canfield
               </a>. I was built using{" "}
               <a
-                href="https://openai.com/blog/gpt-3-5-turbo-fine-tuning-and-api-updates"
+                href="https://openai.com/index/gpt-4o-fine-tuning/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="font-medium underline underline-offset-4 transition-colors hover:text-black"
               >
-                fine-tuned GPT4.
+                fine-tuned GPT4o.
               </a>
             </p>
           </div>
@@ -183,7 +183,7 @@ export default function Chat() {
             rel="noopener noreferrer"
             className="transition-colors hover:text-black"
           >
-            OpenAI GPT-3.5-turbo, as part of a course taught by
+            OpenAI GPT-4o, as part of a course taught by
           </a>{" "}
           Halim Madi.{" "}
           <a
