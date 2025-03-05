@@ -14,9 +14,9 @@ import Textarea from "react-textarea-autosize";
 import Image from "next/image";
 
 const examples = [
-  "Example 1",
-  "Example 2",
-  "Example 3",
+  "What level of tree canopy density would be most helpful to GFW Pro users who are looking to assess EUDR compliance?",
+  "We've heard the need from users to be able to track non-forest landcover conversion as a part of conversion-free commitments. Could you help me understand more about that use case and what datasets or functionality we might consider adding to Pro to meet it?",
+  "Do Pro users outside of LATAM find country-specific datasets helpful when assessing deforestation risk on their locations?",
 ];
 
 export default function Chat() {
@@ -83,7 +83,7 @@ export default function Chat() {
               className="h-20 w-20"
             />
             <h1 className="text-lg font-semibold text-black">
-              Hi, I'm a fine tuned LLM.
+              Hi, I'm Probot, a fine-tuned AI model based on OpenAI.
             </h1>
             <p className="text-gray-500">
               I'm part of a series of computational experiments taught by{" "}
